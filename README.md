@@ -9,7 +9,7 @@
 ```
 sudo git clone https://github.com/K4V0/UNI-SXANNER.git
 cd UNI-SXANNER/
-sudo python3 UN-SXANNER
+sudo python3 UNI SXANNER v0.1
 ```
 
 ### Features / المميزات
