@@ -5,14 +5,14 @@
 
 
 
-### How to install/ طريقة التثبيت  linux(Debian & Ubuntu)
+### How to install / طريقة التثبيت  linux(Debian & Ubuntu)
 ```
 sudo git clone https://github.com/K4V0/UNI-SXANNER.git
 cd UNI-SXANNER/
 sudo python3 UN-SXANNER
 ```
 
-### Features/ المميزات
+### Features / المميزات
 1. Open source tool/ أداة مفتوحة المصدر
 2. easy to use/ سهل الاستخدام
 3. Correct output/ معلومات صحيحة
