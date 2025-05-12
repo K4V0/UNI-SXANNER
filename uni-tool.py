@@ -224,7 +224,7 @@ def show_banner():
 def show_menu():
     print(f"\n{YELLOW}Select scanning mode:{RESET}")
     print(f"{CYAN}1. Quick Scan (Common ports){RESET}")
-    print(f"{CYAN}2. Full Scan (All ports 1-1024){RESET}")
+    print(f"{CYAN}2. Full Scan (All ports 1-20000){RESET}")
     print(f"{CYAN}3. Custom Port Range{RESET}")
     print(f"{CYAN}4. Set timeout value (current: {timeout_value}s){RESET}")
     print(f"{CYAN}5. Exit{RESET}")
