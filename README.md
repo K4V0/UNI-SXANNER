@@ -1,6 +1,7 @@
 # UNI-SXANNER TOOL
 
-![photo_2025-01-29_17-05-45](https://github.com/user-attachments/assets/ffd86dd8-21d4-4be2-b7f8-29132b357a13)
+![logo](https://github.com/user-attachments/assets/dc8642c0-3378-4da1-86b4-e0bc7479e368)
+
 
 
 
@@ -19,12 +20,17 @@ sudo git clone https://github.com/K4V0/UNI-SXANNER.git
 
 
 ```
-pip install -r requirements.txt
+pip install pyfiglet
+```
+
+### If you get an error try this: / :في حالة حصل لك مشكلة جرب هذا
+```
+sudo python3 -m pip install pyfiglet --break-system-packages
 ```
 #### 3. How to run the tool / كيف تشغل الأداة
 ```
 cd UNI-SXANNER/
-sudo python3 UNI SXANNER v0.1
+sudo python3 uni-tool.py
 ```
    
     
@@ -34,6 +40,10 @@ sudo python3 UNI SXANNER v0.1
 3. Correct output / معلومات صحيحة
 
 
+###   Choices / الاختيارات
+1. Quick scan (common ports) / فحص سريع(البورتات الشائعة)
+
+**This option scans the most common open ports on domains (websites)** / **هذا الاختيار يفحص اغلب البورتات الي تكون مفتوحه في اغلب الدومنيات (المواقع)**
 
  
  ###  Enjoy...!
